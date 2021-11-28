@@ -28,23 +28,23 @@ components.homeScreen =`
         <h4  style="text-align: center;">Members</h4>
         <div class="ban">
             <div class="thanhvien"   style="width: 120px;" ><h5 class="theten" >Yên Hạnh </h5>   
-            <img class="anhdaidien " src="../B1-web/IMG/anhthanhvien/259855463_653888882272753_4064261298107739833_n.jpg" alt=""></div>
+            <img class="anhdaidien " src="../B1_web/IMG/anhthanhvien/259855463_653888882272753_4064261298107739833_n.jpg" alt=""></div>
             <div class="gioithieu" ><p>Lê Yên Hạnh <br></p> <p> Birth:30/11/2005 </div>
             <div class="thanhvien" style="width: 120px;"><h5 class="theten">Minh Phương</h5>
-            <img class="anhdaidien" src="../B1-web/IMG/anhthanhvien/260864667_415386933635634_2642141238648471232_n.jpg" alt=""></div>
+            <img class="anhdaidien" src="../B1_web/IMG/anhthanhvien/260864667_415386933635634_2642141238648471232_n.jpg" alt=""></div>
             <div class="gioithieu2"><p>Trịnh Minh Phương <br> Birth: 20/02/2005  </p></div>
             <div class="thanhvien" style="width: 120px;"><h5 class="theten">Nguyễn Hậu </h5>
-            <img class="anhdaidien" src="../B1-web/IMG/anhthanhvien/260178258_1332305580532413_7752996159716816287_n.jpg" alt=""></div>
+            <img class="anhdaidien" src="../B1_web/IMG/anhthanhvien/260178258_1332305580532413_7752996159716816287_n.jpg" alt=""></div>
             <div class="gioithieu3"><P>Nguyễn Thị Hậu <br> Birth: 02/08/2005</P></div>
         </div>
 
 
         <div class="ban">
             <div class="thanhvien"><h5 class="theten">Trương Thiện</h5>
-            <img class="anhdaidien" src="../B1-web/IMG/" alt=""></div>
+            <img class="anhdaidien" src="../B1_web/IMG/" alt=""></div>
             <div class="gioithieu" ><p>Trương Đức Thiện <br> Birth: 17/12/2005  </p></div>
             <div  class="thanhvien" ><h5 class="theten">Ngọc Duyên</h5>
-            <img class="anhdaidien"  src="../B1-web/IMG/anhthanhvien/260433612_442673877370487_6210675491296601248_n.jpg" alt=""></div>
+            <img class="anhdaidien"  src="../B1_web/IMG/anhthanhvien/260433612_442673877370487_6210675491296601248_n.jpg" alt=""></div>
             <div class="gioithieu2"><p>Trương Lê Ngọc Duyên <br> Birth: 10/02/2005  </p></div>
             <div class="thanhvien"><h5 class="theten">Ngọc Ánh</h5>
             <img class="anhdaidien" src="../B1-web/IMG/anhthanhvien/260857263_1012290559319015_3145646781814782878_n.jpg" alt=""></div>
